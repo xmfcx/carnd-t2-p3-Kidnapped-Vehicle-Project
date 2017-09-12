@@ -1,0 +1,4 @@
+/home/mfc/programs/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/mfc/projects/CarND/Term2/CarND-Kidnapped-Vehicle-Project
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mfc/projects/CarND/Term2/CarND-Kidnapped-Vehicle-Project/cmake-build-debug
